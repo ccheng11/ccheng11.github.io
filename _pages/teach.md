@@ -14,7 +14,7 @@ redirect_from:
 
 ### LSE (2020-2021)
 
-  - Fundamentals of Research Design for International Development [[**Slides**](https://github.com/ccheng11/MY410){:target="_blank"}]
+  - Fundamentals of Research Design for International Development [**[Slides]**(https://github.com/ccheng11/MY410){:target="_blank"}]
   - MSc Applied Social Data Science Capstone Project
 
 ### Tsinghua (2019-2020)
