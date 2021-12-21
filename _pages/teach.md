@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /teach/
   - /teach.html
