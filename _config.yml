@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CHAO-YO CHENG"
+title                    : "Dr. Chaoyo Cheng"
 title_separator          : "-"
-name                     : &name "Chao-Yo Cheng"
+name                     : &name "Dr. Chaoyo Cheng"
 description              : &description "PhD in Political Science, UCLA"
 url                      : https://ccheng11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ccheng11/ccheng11.github.io"
+repository               : "ccheng11.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
