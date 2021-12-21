@@ -86,7 +86,7 @@ author:
   location         : #"London, United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=xKb1qAcAAAAJ"
   email            :
   researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -106,7 +106,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-4488-2450"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "polarbear0627"
