@@ -7,7 +7,6 @@ redirect_from:
   - /vitae.html
 ---
 
-{:style="text-align:center"}
-[Curriculum Vitae (December 2021)](https://www.dropbox.com/s/wqtzc1xndtvyvhz/Vitae%202021.pdf?dl=0){:target="_blank"}
+{:style="text-align:center"}[Curriculum Vitae (December 2021)](https://www.dropbox.com/s/wqtzc1xndtvyvhz/Vitae%202021.pdf?dl=0){:target="_blank"}
 
-![imcapital](img_6323-1.jpeg)
+![imcapital](./images/img_6323-1.jpeg)
