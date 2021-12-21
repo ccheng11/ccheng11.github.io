@@ -31,6 +31,6 @@ redirect_from:
   - Southeast Asian Politics
   - Political Institutions and Economic Development
   - Contemporary China
-  - Government and Politics of Russia-
+  - Government and Politics of Russia
   - Quantitative Data Analysis in Social Science (Graduate)
   - Intermediate Game Theory (Graduate)
