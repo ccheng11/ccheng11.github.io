@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Teaching"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /teach/
-  #- /teach.html
+  - /teach.html
 ---
 
 ### Birkbeck (2022-present)
