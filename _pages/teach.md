@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 redirect_from: 
   - /teach/
-  - /teach.html
+  #- /teach.html
 ---
 
 ### Birkbeck (2022-present)
