@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /vitae/
   - /vitae.html
