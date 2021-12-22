@@ -1,8 +1,6 @@
 ---
-#layout: archive
+layout: archive
 title: "Curriculum Vitae"
-excerpt: "Curriculum Vitae"
-permalink: /
 author_profile: true
 redirect_from: 
   - /vitae/

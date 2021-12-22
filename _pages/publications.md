@@ -1,8 +1,6 @@
 ---
-#layout: archive
+layout: archive
 title: "Publications"
-excerpt: "Publications"
-permalink: /
 author_profile: true
 redirect_from: 
   - /publication/
