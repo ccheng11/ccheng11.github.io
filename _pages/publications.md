@@ -1,12 +1,12 @@
 ---
-layout: archive
+#layout: archive
 title: "Publications"
-#permalink: /publication/
+excerpt: "Publications"
+permalink: /
 author_profile: true
 redirect_from: 
   - /publication/
-  - /publication.html
-  
+  - /publication.html 
 ---
 
 ## Peer-reviewed Articles
