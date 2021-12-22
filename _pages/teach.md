@@ -25,7 +25,7 @@ redirect_from:
 
 ## UCLA (2013-2019)
 
-  - Introduction to Comparative Politics [[**Syllabus**](https://ccheng11/github.com/files/ucla_ps50.pdf){:target="_blank"}]
+  - Introduction to Comparative Politics [[**Syllabus**](https://ccheng11.github.io/files/ucla_ps50.pdf){:target="_blank"}]
   - World Politics
   - Roots of Democracy
   - Southeast Asian Politics
