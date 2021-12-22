@@ -32,7 +32,7 @@ redirect_from:
   - "[Will Reshaping the Bureaucratic Relationship Enhance the Government's Responsiveness? A Policy Experiment Based on the ‘Whistle and Report' Reform in Beijing](https://mp.weixin.qq.com/s/0lcFAtTWaVHPwxwVgu0TQw){:target="_blank"}." *Chinese Public Administration 4*: 31-39 (with Tianguang Meng and Jinxu Zhao). April 2021.
   - "[Party Newspapers' Layouts and Elite Interaction: People's Daily and PLA Daily as Examples](http://dx.doi.org/10.6229%2fCPSR.2006.42.02){:target="_blank"}." *Chinese Political Science Review 42*: 37-78 (with Chien-wen Kou). December 2006.
 
-### Policy Reports and Invited Contributions
+## Policy Reports and Invited Contributions
 
   - "[Access to Energy in Rural India: A Survey of Six States](https://www.ideasforindia.in/topics/governance/access-to-energy-in-rural-india-a-survey-of-six-states.html){:target="_blank"}." *Ideas for India* (with Abhishek Jain and Johannes Urpelainen). January 2016.
   - "[Access to Clean Cooking Energy and Electricity: A Survey of States](https://www.ceew.in/publications/access-clean-cooking-energy-and-electricity-survey-states){:target="_blank"}." Council on Electricity, Energy, and Water (Delhi, India) and Columbia University (with Abhishek Jain, Sudatta Ray, Karthik Ganesan, Michaël Aklin, and Johannes Urpelainen). September 2015.
