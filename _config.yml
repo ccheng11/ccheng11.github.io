@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CHAO-YO CHENG'S HOMEPAGE"
+title                    : "CHAO-YO CHENG"
 title_separator          : "-"
 name                     : &name "Dr Chao-Yo Cheng"
 description              : &description "PhD in Political Science, UCLA"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Chao-Yo Cheng"
   avatar           : "bbk.png"
-  bio              : "Lecturer at Birkbeck, University of London"
+  bio              : "PhD in Political Science"
   location         : #"London, United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
