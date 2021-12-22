@@ -12,14 +12,14 @@ redirect_from:
 ## Peer-reviewed Articles
 
   - "From Local Capture to Upper Capture: The Chinese Experiment of Administrative Courts." *China Review*. Accepted (with Chao Ma and Haibo He). August 2022.
-  - "[Poverty Alleviation and State Building in Peripheral Areas: Evidence from China](https://doi.org/10.1017/S1468109921000281){:target="_blank"}." *Japanese Journal of Political Science*. Online First. December 2021.
+  - "[Poverty Alleviation and State Building in Peripheral Areas: Evidence from China](https://doi.org/10.1017/S1468109921000281){:target="_blank"}." *Japanese Journal of Political Science*. Online First. December 2021. [[**Dataverse**](https://doi.org/10.7910/DVN/GAWWYW){:target="_blank"}]
   - "[Ethnic Ties, Organized Opposition and Voter Defection in Authoritarian Elections](https://www.doi.org/10.1017/gov.2021.48){:target="_blank"}." *Government and Opposition*. Online First (with Yi-Tzu Lin). November 2021.
   - "[Inequality in Policy Implementation: Caste and Electrification in Rural India](https://doi.org/10.1017/S0143814X20000045){:target="_blank"}." *Journal of Public Policy 41*(2): 331-359 (with Michaël Aklin and Johannes Urpelainen). May 2021.
   - "[Government-led or Public-led? Chinese Policy Agenda Setting during the COVID-19 Pandemic](https://doi.org/10.1080/13876988.2021.1878887){:target="_blank"}." *Journal of Comparative Policy Analysis 23*(2): 157-175 (with Yixin Dai, Yuejiang Li, Hong Zhao, and Tianguang Meng). April 2021.
   - "[Vested Interests: Examining the Political Obstacles to Power Sector Reform in Twenty Indian States](https://doi.org/10.1016/j.erss.2020.101766){:target="_blank"}." *Energy Research & Social Science 70*(101766) (with YuJung Julia Lee, Galen Murray, Yuree Noh, Johannes Urpelainen, and Joseph van Horn). December 2020.
   - "[Criminal Politicians and Socioeconomic Development: Evidence from Rural India](https://doi.org/10.1007/s12116-019-09290-5){:target="_blank"}." *Studies in Comparative International Development 54*(4): 501-527 (with Johannes Urpelainen). December 2019.
   - "[Social Acceptance of New Energy Technology in Developing Countries: A Framing Experiment in Rural India](https://doi.org/10.1016/j.enpol.2017.10.059){:target="_blank"}." *Energy Policy 113*: 466-477 (with Michaël Aklin and Johannes Urpelainen). February 2018.
-  - "[Geography, Community, Household: Adoption of Distributed Solar Power across India](https://doi.org/10.1016/j.esd.2017.09.010){:target="_blank"}." *Energy for Sustainable Development 42*: 54-63 (with Michaël Aklin and Johannes Urpelainen). February 2018.
+  - "[Geography, Community, Household: Adoption of Distributed Solar Power across India](https://doi.org/10.1016/j.esd.2017.09.010){:target="_blank"}." *Energy for Sustainable Development 42*: 54-63 (with Michaël Aklin and Johannes Urpelainen). February 2018. [[**Dataverse**](https://doi.org/10.7910/DVN/GITJQ4){:target="_blank"}]
   - "[Factors Affecting Household Satisfaction with Electricity Supply in Rural India](https://doi.org/10.1038/nenergy.2016.170){:target="_blank"}." *Nature Energy 1*(16170) (with Michaël Aklin, Karthik Ganesan, Abhishek Jain, and Johannes Urpelainen). November 2016.
   - "[Unawareness and Indifference to Economic Reform among the Public: Evidence from India's Power Sector Reform](https://doi.org/10.1007/s10101-015-0179-4){:target="_blank"}." *Economics of Governance 17*(3): 211-239 (with Johannes Urpelainen). August 2016.
   - "[Support for Renewable Energy in China: A Survey Experiment with Internet Users](https://doi.org/10.1016/j.jclepro.2015.08.109){:target="_blank"}." *Journal of Cleaner Production 112*(5): 3750-3758 (with Dingding Chen and Johannes Urpelainen). January 2016.
@@ -38,7 +38,8 @@ redirect_from:
   - "[Access to Clean Cooking Energy and Electricity: A Survey of States](https://www.ceew.in/publications/access-clean-cooking-energy-and-electricity-survey-states){:target="_blank"}." Council on Electricity, Energy, and Water (Delhi, India) and Columbia University (with Abhishek Jain, Sudatta Ray, Karthik Ganesan, Michaël Aklin, and Johannes Urpelainen). September 2015.
   - "[Poverty Alleviation and Development in Xinjiang](https://doi.org/10.2753/CLG0009-4609440600){:target="_blank"}." *Chinese Law & Government 44*(6):3-9. December 2011. 
 
-## Dataset
+## Datasets
 
   - [Access to Clean Cooking Energy and Electricity: Survey of States in India (ACCESS)](https://doi.org/10.7910/DVN/0NV9LF){:target="_blank"}.
   - Chinese Political Elite Network (C-PEN).
+  - See 
