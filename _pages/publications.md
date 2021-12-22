@@ -40,4 +40,3 @@ redirect_from:
 
   - [Access to Clean Cooking Energy and Electricity: Survey of States in India (ACCESS)](https://doi.org/10.7910/DVN/0NV9LF){:target="_blank"}.
   - Chinese Political Elite Network (C-PEN).
-  - See 
