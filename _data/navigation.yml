@@ -5,14 +5,14 @@ main:
     #url: /vitae/
     url: /cv/
 
-  - title: "Publications"
-    url: /publication/
-
-  #- title: "Talks"
-  #  url: /talks/    
+  #- title: "Publications"
+  #  url: /publication/
 
   - title: "Teaching"
     url: /teach/    
+
+  #- title: "Talks"
+  #  url: /talks/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
