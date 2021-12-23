@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "CHAO-YO CHENG'S HOMEPAGE"
-title_separator          : "-"
+title_separator          : "::"
 name                     : &name "CYC@Birkbeck"
 description              : &description "PhD in Political Science, UCLA"
 url                      : https://ccheng11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
