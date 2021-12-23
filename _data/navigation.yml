@@ -2,8 +2,7 @@
 main:
 
   - title: "Vitae"
-    #url: /vitae/
-    url: /cv/
+    url: /vitae/
 
   - title: "Publications"
     url: /publication/
