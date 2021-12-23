@@ -5,8 +5,8 @@ main:
     #url: /vitae/
     url: /cv/
 
-  #- title: "Publications"
-  #  url: /publication/
+  - title: "Publications"
+    url: /pubs/
 
   - title: "Teaching"
     url: /teach/    
