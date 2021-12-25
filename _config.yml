@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chao-Yo Cheng"
+  name             : "Chao-Yo Cheng\n\(鄭兆祐)"
   avatar           : "bbk.png"
   bio              : "PhD in Political Science"
   location         : #"London, United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xKb1qAcAAAAJ"
-  email            : "c.cheng@bbk.ac.uk"
+  email           : "c.cheng@bbk.ac.uk"
   researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
