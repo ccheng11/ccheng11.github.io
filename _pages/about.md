@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "WELCOME!"
 excerpt: "WELCOME!"
 permalink: /
