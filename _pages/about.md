@@ -15,4 +15,4 @@ In January 2022, I will join [Birkbeck, University of London](https://www.bbk.ac
 
 I am also an Affiliate Researcher/Research Associate in the [Department of International Development](https://www.lse.ac.uk/international-development){:target="_blank"} and the [Grantham Research Institute on Climate Change and the Environment](https://www.lse.ac.uk/granthaminstitute/){:target="_blank"} at LSE. In 2021, I am named an Asia Fellow by the [American Political Science Association](https://connect.apsanet.org/asia/home-page/){:target="_blank"}.
 
-Email: <c.cheng@bbk.ac.uk>.
+Email: c.cheng[at]]bbk.ac.uk.
