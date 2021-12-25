@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Publications"
 permalink: /publication/
 author_profile: true
