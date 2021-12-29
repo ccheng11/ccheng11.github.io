@@ -89,7 +89,8 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xKb1qAcAAAAJ"
-  email           : "c.cheng@bbk.ac.uk"
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2212297"
+  email            : "c.cheng@bbk.ac.uk"
   researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
