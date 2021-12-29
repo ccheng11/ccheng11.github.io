@@ -12,8 +12,8 @@ redirect_from:
 ## Peer-reviewed Articles
 
   - "From Local Capture to Upper Capture: The Chinese Experiment of Administrative Courts." *China Review*. Accepted (with Chao Ma and Haibo He). August 2022.
-  - "[Poverty Alleviation and State Building in Peripheral Areas: Evidence from China](https://doi.org/10.1017/S1468109921000281){:target="_blank"}." *Japanese Journal of Political Science*. Online First. December 2021. [[**Dataverse**](https://doi.org/10.7910/DVN/GAWWYW){:target="_blank"}]
   - "[Ethnic Ties, Organized Opposition and Voter Defection in Authoritarian Elections](https://www.doi.org/10.1017/gov.2021.48){:target="_blank"}." *Government and Opposition*. Online First (with Yi-Tzu Lin). November 2021.
+  - "[Poverty Alleviation and State Building in Peripheral Areas: Evidence from China](https://doi.org/10.1017/S1468109921000281){:target="_blank"}." *Japanese Journal of Political Science 22*(4): 312-332. December 2021. [[**Dataverse**](https://doi.org/10.7910/DVN/GAWWYW){:target="_blank"}]
   - "[Inequality in Policy Implementation: Caste and Electrification in Rural India](https://doi.org/10.1017/S0143814X20000045){:target="_blank"}." *Journal of Public Policy 41*(2): 331-359 (with Michaël Aklin and Johannes Urpelainen). May 2021.
   - "[Government-led or Public-led? Chinese Policy Agenda Setting during the COVID-19 Pandemic](https://doi.org/10.1080/13876988.2021.1878887){:target="_blank"}." *Journal of Comparative Policy Analysis 23*(2): 157-175 (with Yixin Dai, Yuejiang Li, Hong Zhao, and Tianguang Meng). April 2021.
   - "[Vested Interests: Examining the Political Obstacles to Power Sector Reform in Twenty Indian States](https://doi.org/10.1016/j.erss.2020.101766){:target="_blank"}." *Energy Research & Social Science 70*(101766) (with YuJung Julia Lee, Galen Murray, Yuree Noh, Johannes Urpelainen, and Joseph van Horn). December 2020.
