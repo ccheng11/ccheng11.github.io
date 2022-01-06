@@ -11,7 +11,7 @@ redirect_from:
 
 ## Birkbeck
 
-  - Intermediate Quantitative Methods
+  - Intermediate Quantitative Social Research
   - Emerging Powers in World Politics
 
 ## LSE
