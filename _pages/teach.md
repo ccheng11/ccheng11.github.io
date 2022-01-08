@@ -19,12 +19,6 @@ redirect_from:
   - Fundamentals of Research Design for International Development [[**Slides**](https://github.com/ccheng11/MY410){:target="_blank"}]
   - MSc Applied Social Data Science Capstone Project
 
-## Tsinghua
-
-  - Reading Group in Political Economy of Development and Institutions (Graduate)
-  - Reading Group in Comparative Politics (Graduate)
-  - Introduction to Statistical Programming (Graduate)
-
 ## UCLA
 
   - Introduction to Comparative Politics [[**Syllabus**](https://ccheng11.github.io/files/ucla_ps50.pdf){:target="_blank"}]
