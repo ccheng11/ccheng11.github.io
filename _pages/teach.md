@@ -11,8 +11,14 @@ redirect_from:
 
 ## Birkbeck
 
-  - Intermediate Quantitative Social Research
-  - Emerging Powers in World Politics
+  - Level 4
+    - Structure and Issues in Global Politics
+  - Level 6
+    - Chinese Politics (planning)
+  - Level 7
+    - Emerging Powers in World Politics
+    - Investigating the Social World (planning)
+    - Intermediate/Advanced Quantitative Social Research
 
 ## LSE
 
@@ -21,12 +27,14 @@ redirect_from:
 
 ## UCLA
 
-  - Introduction to Comparative Politics [[**Syllabus**](https://ccheng11.github.io/files/ucla_ps50.pdf){:target="_blank"}]
-  - World Politics
-  - Roots of Democracy
-  - Southeast Asian Politics
-  - Political Institutions and Economic Development
-  - Contemporary China
-  - Government and Politics of Russia
-  - Quantitative Data Analysis in Social Science (Graduate)
-  - Intermediate Game Theory (Graduate)
+  - Undergraduate
+    - Introduction to Comparative Politics [[**Syllabus**](https://ccheng11.github.io/files/ucla_ps50.pdf){:target="_blank"}]
+    - World Politics
+    - Roots of Democracy
+    - Southeast Asian Politics
+    - Political Institutions and Economic Development
+    - Contemporary China
+    - Government and Politics of Russia
+  - Graduate
+    - Quantitative Data Analysis in Social Science
+    - Intermediate Game Theory
