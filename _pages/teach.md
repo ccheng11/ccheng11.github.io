@@ -11,14 +11,11 @@ redirect_from:
 
 ## Birkbeck
 
-  - Level 4
-    - Structure and Issues in Global Politics
-  - Level 6
+  - Undergraduate
     - Chinese Politics (planning)
   - Level 7
-    - Emerging Powers in World Politics
     - Investigating the Social World (planning)
-    - Intermediate/Advanced Quantitative Social Research
+    - Advanced Topics in Quantitative Social Research
 
 ## LSE
 
@@ -37,4 +34,4 @@ redirect_from:
     - Government and Politics of Russia
   - Graduate
     - Quantitative Data Analysis in Social Science
-    - Intermediate Game Theory
+    - Intermediate Game Theory (Math Maven)
