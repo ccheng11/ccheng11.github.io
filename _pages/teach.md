@@ -13,8 +13,9 @@ redirect_from:
 
   - Undergraduate
     - Chinese Politics (planning)
-  - Level 7
+  - Postgraduate
     - Investigating the Social World (planning)
+    - Emerging Powers in World Politics
     - Advanced Topics in Quantitative Social Research
 
 ## LSE
