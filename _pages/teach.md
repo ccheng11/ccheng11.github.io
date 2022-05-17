@@ -16,6 +16,7 @@ redirect_from:
   - Postgraduate
     - Investigating the Social World (planning)
     - Emerging Powers in World Politics
+    - Intermediate Quantitative Social Research
     - Advanced Topics in Quantitative Social Research
 
 ## LSE
