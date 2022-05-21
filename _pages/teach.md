@@ -15,8 +15,9 @@ redirect_from:
     - Structure and Issues in International Politics
     - Chinese Politics (planning)
   - Postgraduate
-    - Investigating the Social World (planning)
     - Emerging Powers in World Politics
+    - Investigating the Social World (planning)
+    - Masterclass in Social Research
     - Intermediate Quantitative Social Research
     - Advanced Topics in Quantitative Social Research
 
