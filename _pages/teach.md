@@ -12,6 +12,7 @@ redirect_from:
 ## Birkbeck
 
   - Undergraduate
+    - Structure and Issues in International Politics
     - Chinese Politics (planning)
   - Postgraduate
     - Investigating the Social World (planning)
