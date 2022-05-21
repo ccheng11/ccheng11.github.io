@@ -19,7 +19,7 @@ redirect_from:
     - Investigating the Social World (planning)
     - Masterclass in Social Research
     - Intermediate Quantitative Social Research
-    - Advanced Topics in Quantitative Social Research
+    - Advanced Topics in Quantitative Social Research (planning)
 
 ## LSE
 
