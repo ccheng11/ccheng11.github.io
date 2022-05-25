@@ -12,7 +12,6 @@ redirect_from:
 ## Birkbeck
 
   - Undergraduate
-    - Structure and Issues in International Politics
     - Chinese Politics (planning)
   - Postgraduate
     - Emerging Powers in World Politics
