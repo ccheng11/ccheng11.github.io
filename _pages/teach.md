@@ -14,11 +14,11 @@ redirect_from:
   - Undergraduate
     - Chinese Politics (planning)
   - Postgraduate
-    - Emerging Powers in World Politics
-    - Investigating the Social World (planning)
-    - Masterclass in Social Research
+    - Emerging Powers in World Politics (with Ali Güven)
+    - [Investigating the Social World](https://www.bbk.ac.uk/study/modules/sspo/SSPO263S7){:target="_blank"} (with Margarita Aragon)
+    - [Masterclass in Social Research](https://www.bbk.ac.uk/study/modules/sspo/SSPO019S7){:target="_blank"}
     - Intermediate Quantitative Social Research
-    - Advanced Topics in Quantitative Social Research (planning)
+    - [Advanced Topics in Quantitative Social Research](https://www.bbk.ac.uk/study/modules/sspo/SSPO241H7){:target="_blank"}
 
 ## LSE
 
