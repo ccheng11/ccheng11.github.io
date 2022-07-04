@@ -12,10 +12,10 @@ redirect_from:
 ## Birkbeck
 
   - Undergraduate
-    - Chinese Politics (planning)
+    - [Chinese Politics](https://www.bbk.ac.uk/study/modules/sspo/SSPO262H6){:target="_blank"} (planning)
   - Postgraduate
-    - Emerging Powers in World Politics (with [Ali Güven](https://www.bbk.ac.uk/our-staff/profile/8007478/ali-burak-guven){:target="_blank"})
-    - [Investigating the Social World](https://www.bbk.ac.uk/study/modules/sspo/SSPO263S7){:target="_blank"} (with [Margarita Aragon](https://www.bbk.ac.uk/our-staff/profile/9032362/margarita-aragon){:target="_blank"})
+    - Emerging Powers in World Politics
+    - [Investigating the Social World](https://www.bbk.ac.uk/study/modules/sspo/SSPO263S7){:target="_blank"}
     - [Masterclass in Social Research](https://www.bbk.ac.uk/study/modules/sspo/SSPO019S7){:target="_blank"}
     - Intermediate Quantitative Social Research
     - [Advanced Topics in Quantitative Social Research](https://www.bbk.ac.uk/study/modules/sspo/SSPO241H7){:target="_blank"}
