@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae (May 2022)](https://www.dropbox.com/s/4ugvpftg6kumlix/Vitae%202022.pdf?dl=0){:target="_blank"}
+[Curriculum Vitae (September 2022)](https://www.dropbox.com/s/4ugvpftg6kumlix/Vitae%202022.pdf?dl=0){:target="_blank"}
