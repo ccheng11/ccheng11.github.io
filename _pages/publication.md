@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Peer-reviewed Articles
-
-  - "From Local Capture to Upper Capture: The Chinese Experiment of Administrative Courts." *China Review*. Accepted (with Chao Ma and Haibo He). August 2022.
+  
   - "[Ethnic Ties, Organized Opposition and Voter Defection in Authoritarian Elections](https://www.doi.org/10.1017/gov.2021.48){:target="_blank"}." *Government and Opposition*. Online First (with Yi-Tzu Lin). November 2021.
+  - "[From Local Capture to Upper Capture: The Chinese Experiment of Administrative Courts](https://muse.jhu.edu/article/864165){:target="_blank"}." *China Review 22*(3): 9-46. Accepted (with Chao Ma and Haibo He). August 2022.
   - "[Poverty Alleviation and State Building in Peripheral Areas: Evidence from China](https://doi.org/10.1017/S1468109921000281){:target="_blank"}." *Japanese Journal of Political Science 22*(4): 312-332. December 2021. [[**Dataverse**](https://doi.org/10.7910/DVN/GAWWYW){:target="_blank"}]
   - "[Inequality in Policy Implementation: Caste and Electrification in Rural India](https://doi.org/10.1017/S0143814X20000045){:target="_blank"}." *Journal of Public Policy 41*(2): 331-359 (with Michaël Aklin and Johannes Urpelainen). May 2021.
   - "[Government-led or Public-led? Chinese Policy Agenda Setting during the COVID-19 Pandemic](https://doi.org/10.1080/13876988.2021.1878887){:target="_blank"}." *Journal of Comparative Policy Analysis 23*(2): 157-175 (with Yixin Dai, Yuejiang Li, Hong Zhao, and Tianguang Meng). April 2021.
