@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "CHAO-YO CHENG'S HOMEPAGE"
 title_separator          : "::"
-name                     : &name "CYC@Birkbeck"
+name                     : &name "CYC@BBK"
 description              : &description ""
 url                      : https://ccheng11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
