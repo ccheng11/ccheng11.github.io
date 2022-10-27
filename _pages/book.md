@@ -14,6 +14,7 @@ redirect_from:
 Autonomy in Autocracy: Local Decentralization and Nation-State Building in China
 
 </b></div>
+</html>
 
 In this book project, I develop and test a new theory to explain how the designation of ethnic autonomous territories (EATs) has shaped the governance of subordinate non-Han ethnic groups and sustained the Chinese Communist Party's rule in post-1949 China. I argue that ethnic local autonomy allows the central leader to establish command over subnational political forces while countering inner-circle rivals.
 
