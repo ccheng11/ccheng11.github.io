@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Book Project"
+title: "Book"
 permalink: /teach/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am in the processing of finalizing my book manuscript based on my PhD dissertation. I develop and test a new theory to explain how the designation of ethnic autonomous territories (EATs) has shaped the governance of subordinate non-Han ethnic groups and sustained the Chinese Communist Party's rule in post-1949 China. I argue that ethnic local autonomy allows the central leader to establish command over subnational political forces while countering inner-circle rivals.
+Now I am in the processing of finalizing my book manuscript based on my PhD dissertation. I develop and test a new theory to explain how the designation of ethnic autonomous territories (EATs) has shaped the governance of subordinate non-Han ethnic groups and sustained the Chinese Communist Party's rule in post-1949 China. I argue that ethnic local autonomy allows the central leader to establish command over subnational political forces while countering inner-circle rivals.
 
 Through statistical analysis, elite interviews, and comparative case studies, I demonstrate that ethnic local autonomy was not introduced simply to defuse potential ethnic secessionism. Instead, ethnic autonomous prefectures and counties have allowed the Chinese central leader to constrain the discretion of potentially defiant provincial elites, which in turn addresses the dilemma of delegation, when they faced strong competitors within the Politburo.
 
