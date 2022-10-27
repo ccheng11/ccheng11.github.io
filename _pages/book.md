@@ -9,27 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+<html>
 <div align="center"><b>
 Autonomy in Autocracy: Local Decentralization and Nation-State Building in China
 </b></div>
 
-<html><body>
-&nbsp
-</html></body>
+<body>&nbsp</body>
+</html>
 
 In this book project, I develop and test a new theory to explain how the designation of ethnic autonomous territories (EATs) has shaped the governance of subordinate non-Han ethnic groups and sustained the Chinese Communist Party's rule in post-1949 China. I argue that ethnic local autonomy allows the central leader to establish command over subnational political forces while countering inner-circle rivals.
 
-<html><body>
-&nbsp
-</html></body>
+<html>
+<body>&nbsp</body>
 
 <div align="center">
 <a href="https://freeimage.host/i/bHNNGn"><img src="https://iili.io/bHNNGn.md.jpg" alt="bHNNGn.md.jpg" border="0" width=65% height=65%></a>
 </div>
 
-<html><body>
-&nbsp
-</html></body>
+<body>&nbsp</body>
+</html>
 
 Through **statistical analysis**, **elite interviews**, and **comparative case studies**, I demonstrate that ethnic local autonomy was not introduced simply to defuse potential ethnic secessionism. Instead, ethnic autonomous prefectures and counties have allowed the Chinese central leader to constrain the discretion of potentially defiant provincial elites, which in turn addresses the dilemma of delegation, when they faced strong competitors within the Politburo. 
 
@@ -39,17 +37,15 @@ Through **statistical analysis**, **elite interviews**, and **comparative case s
 
 My research suggests that it can also avert the disintegration of multi-ethnic states by managing power struggles within the leader's inner circle. Unpacking the political contexts that drive the introduction of ethnic local autonomy will help to clarify the mechanisms through which decentralisation can either mitigate or exacerbate inter-group tensions.
 
-<html><body>
-&nbsp
-</html></body>
+<html>
+<body>&nbsp</body>
 
 <div align="center">
 <a href="https://freeimage.host/i/bHXQm7"><img src="https://iili.io/bHXQm7.md.jpg" alt="bHXQm7.md.jpg" border="0" width=65% height=65%></a>
 </div>
 
-<html><body>
-&nbsp
-</html></body>
+<body>&nbsp</body>
+</html>
 
 This book project own received a grant of Taiwan's National Science and Technology Council. It is part of the highly competitive 2022 [Taiwanese Overseas Pioneers (TOP)](https://www.stpi.narl.org.tw/public/top.htm) scheme and was the only grant awarded to a political scientist on this occasion.
 
