@@ -17,7 +17,7 @@ Autonomy in Autocracy: Local Decentralization and Nation-State Building in China
 &nbsp
 </html></body>
 
-In this project, I develop and test a new theory to explain how the designation of ethnic autonomous territories (EATs) has shaped the governance of subordinate non-Han ethnic groups and sustained the Chinese Communist Party's rule in post-1949 China. I argue that ethnic local autonomy allows the central leader to establish command over subnational political forces while countering inner-circle rivals.
+In this book project, I develop and test a new theory to explain how the designation of ethnic autonomous territories (EATs) has shaped the governance of subordinate non-Han ethnic groups and sustained the Chinese Communist Party's rule in post-1949 China. I argue that ethnic local autonomy allows the central leader to establish command over subnational political forces while countering inner-circle rivals.
 
 <html><body>
 &nbsp
@@ -37,7 +37,7 @@ Through **statistical analysis**, **elite interviews**, and **comparative case s
 
   - Drawing on an original dataset of Chinese political elites, I employ **social network analysis** and **supervised machine learning** to construct innovative quantitative indices of elite connectedness and the structural features of elite networks to examine the interplay of informal political ties and formal institutional changes.
 
-  - My research suggests that it can also avert the disintegration of multi-ethnic states by managing power struggles within the leader's inner circle. Unpacking the political contexts that drive the introduction of ethnic local autonomy will help to clarify the mechanisms through which decentralisation can either mitigate or exacerbate inter-group tensions.
+My research suggests that it can also avert the disintegration of multi-ethnic states by managing power struggles within the leader's inner circle. Unpacking the political contexts that drive the introduction of ethnic local autonomy will help to clarify the mechanisms through which decentralisation can either mitigate or exacerbate inter-group tensions.
 
 <html><body>
 &nbsp
