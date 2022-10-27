@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-# Autonomy in Autocracy: Local Decentralization and Nation-State Building in China
+<html>
+<div align="center"><b>
+Autonomy in Autocracy: Local Decentralization and Nation-State Building in China
+
+</b></div>
 
 In this book project, I develop and test a new theory to explain how the designation of ethnic autonomous territories (EATs) has shaped the governance of subordinate non-Han ethnic groups and sustained the Chinese Communist Party's rule in post-1949 China. I argue that ethnic local autonomy allows the central leader to establish command over subnational political forces while countering inner-circle rivals.
 
@@ -19,8 +23,6 @@ Through **statistical analysis**, **elite interviews**, and **comparative case s
 
   - Drawing on an original dataset of Chinese political elites, I employ **social network analysis** and **supervised machine learning** to construct innovative quantitative indices of elite connectedness and the structural features of elite networks to examine the interplay of informal political ties and formal institutional changes.
 
-My research suggests that it can also avert the disintegration of multi-ethnic states by managing power struggles within the leader's inner circle. Unpacking the political contexts that drive the introduction of ethnic local autonomy will help to clarify the mechanisms through which decentralisation can either mitigate or exacerbate inter-group tensions.
-
-This book project received a grant of Taiwan's National Science and Technology Council. It is part of the highly competitive 2022 [Taiwanese Overseas Pioneers (TOP)](https://www.stpi.narl.org.tw/public/top.htm) scheme and was the only grant awarded to a political scientist on this occasion.
+This book project own received a grant of Taiwan's National Science and Technology Council. It is part of the highly competitive 2022 [Taiwanese Overseas Pioneers (TOP)](https://www.stpi.narl.org.tw/public/top.htm) scheme and was the only grant awarded to a political scientist on this occasion.
 
 In 2021, I was shortlisted for the Best Social Sciences Dissertation of the [International Convention of Asia Scholars (ICAS) Book Prize](https://www.iias.asia/the-newsletter/article/ibp-2021-english-language-edition-social-sciences). The praise from the Prize Committee reads: "*This dissertation brings together machine learning with fascinating expert interviews to investigate the underlying motivations for China to designate autonomous ethnic regions. Finding that questions of power consolidation and centre-periphery arrangements are more decisive than demands by ethnic minorities, it deepens understandings of Chinese ethnic policy and suggests new directions for the study of ethnic management and authoritarianism beyond China.*"
