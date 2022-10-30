@@ -15,8 +15,6 @@ Through statistical analysis, elite interviews, and comparative case studies, I 
 
 This book project has received a grant of Taiwan's National Science and Technology Council as part of the highly competitive 2022 [Taiwanese Overseas Pioneers (TOP)](https://www.stpi.narl.org.tw/public/top.htm) scheme. In 2020, UCLA nominated my dissertation for APSA's William Anderson Award for the best doctoral dissertation in the field of federalism or intergovernmental relations, state, and local politics. In 2021, I was shortlisted for the Best Social Sciences Dissertation of the [International Convention of Asia Scholars (ICAS) Book Prize](https://www.iias.asia/the-newsletter/article/ibp-2021-english-language-edition-social-sciences).
 
-## Highlights
-
   - I explain how ethnic local autonomy can act as an institution of agent control and contribute to nation-state building. I have also identified similar historical cases of state-building via local decentralization reforms in Anciet and Republican China.
 
   - Drawing on an original dataset of Chinese political elites, I employ social network analysis and supervised machine learning to construct innovative quantitative indices of elite connectedness and the structural features of elite networks to examine the interplay of informal political ties and formal institutional changes.
