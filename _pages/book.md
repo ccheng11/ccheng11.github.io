@@ -31,4 +31,4 @@ In this book manuscript, I develop a new theory to explain how the designation o
   
   - In 2021, I was shortlisted for the Best Social Sciences Dissertation of the [International Convention of Asia Scholars (ICAS) Book Prize](https://www.iias.asia/the-newsletter/article/ibp-2021-english-language-edition-social-sciences){:target="_blank"}.
 
-  - In 2020, UCLA nominated my dissertation for APSA's William Anderson Award for the best doctoral dissertation in the field of federalism or intergovernmental relations, state, and local politics.
+  - UCLA nominated my dissertation for APSA's William Anderson Award for the best doctoral dissertation in the field of federalism or intergovernmental relations, state, and local politics.
