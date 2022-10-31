@@ -29,6 +29,6 @@ I develop a new theory to explain how the designation of ethnic autonomous terri
 
   - This book project has received a grant from Taiwan's National Science and Technology Council as part of the highly competitive 2022 [Taiwanese Overseas Pioneers (TOP)](https://www.stpi.narl.org.tw/public/top.htm){:target="_blank"} scheme.
   
-  - In 2021, I was shortlisted for the Best Social Sciences Dissertation of the [International Convention of Asia Scholars (ICAS) Book Prize](https://www.iias.asia/the-newsletter/article/ibp-2021-english-language-edition-social-sciences){:target="_blank"}.
+  - In 2021, I was shortlisted for the Best Social Sciences Dissertation of the [International Convention of Asia Scholars (ICAS) Book Prize](https://www.iias.asia/the-newsletter/article/ibp-2021-english-language-edition-social-sciences){:target="_blank"} for "*deepening understandings of Chinese ethnic policy and suggesting new directions for the study of ethnic management and authoritarianism beyond China*."
 
   - UCLA nominated my dissertation for APSA's William Anderson Award for the best doctoral dissertation in the field of federalism or intergovernmental relations, state, and local politics.
