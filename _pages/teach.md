@@ -22,13 +22,13 @@ redirect_from:
 
 ## LSE
 
-  - Fundamentals of Research Design for International Development [[**Slides**(https://github.com/ccheng11/MY410){:target="_blank"}]]
+  - Fundamentals of Research Design for International Development [[**Slides**](https://github.com/ccheng11/MY410){:target="_blank"}]
   - MSc Applied Social Data Science Capstone Project
 
 ## UCLA
 
   - Undergraduate
-    - Introduction to Comparative Politics [[**Syllabus**(https://ccheng11.github.io/files/ucla_ps50.pdf){:target="_blank"}]]
+    - Introduction to Comparative Politics [[**Syllabus**](https://ccheng11.github.io/files/ucla_ps50.pdf){:target="_blank"}]
     - World Politics
     - Roots of Democracy
     - Southeast Asian Politics
