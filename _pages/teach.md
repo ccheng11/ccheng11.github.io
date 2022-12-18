@@ -13,8 +13,9 @@ redirect_from:
 
   - Undergraduate
     - [Introduction to International Relations](https://www.bbk.ac.uk/courses/modules/sspo/SSPO170H4){:target="_blank"}
-    - [Chinese Politics](https://www.bbk.ac.uk/courses/modules/sspo/SSPO262H6){:target="_blank"} (planning)
+    - [Chinese Politics](https://www.bbk.ac.uk/courses/modules/sspo/SSPO262H6){:target="_blank"}
   - Postgraduate
+    - Historical Political Economy (planning)
     - [Investigating the Social World](https://www.bbk.ac.uk/courses/modules/sspo/SSPO263S7){:target="_blank"}
     - [Advanced Topics in Quantitative Social Research](https://www.bbk.ac.uk/courses/modules/sspo/SSPO241H7){:target="_blank"}
     - [Masterclass in Social Research](https://www.bbk.ac.uk/courses/modules/sspo/SSPO019S7){:target="_blank"}
