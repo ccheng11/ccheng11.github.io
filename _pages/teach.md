@@ -12,8 +12,7 @@ redirect_from:
 ## Birkbeck
 
   - Undergraduate
-    - [Introduction to International Relations](https://www.bbk.ac.uk/courses/modules/sspo/SSPO170H4){:target="_blank"}
-    - [Chinese Politics](https://www.bbk.ac.uk/courses/modules/sspo/SSPO262H6){:target="_blank"}
+    - [Chinese Politics in Comparative Perspective](https://www.bbk.ac.uk/courses/modules/sspo/SSPO262H6){:target="_blank"}
   - Postgraduate
     - Historical Political Economy (planning)
     - [Investigating the Social World](https://www.bbk.ac.uk/courses/modules/sspo/SSPO263S7){:target="_blank"}
