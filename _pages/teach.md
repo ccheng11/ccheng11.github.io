@@ -12,7 +12,7 @@ redirect_from:
 ## Birkbeck
 
   - Undergraduate
-    - [Chinese Politics in Comparative Perspective](https://www.bbk.ac.uk/courses/modules/sspo/SSPO262H6){:target="_blank"}
+    - [Chinese Politics in Comparative Perspective]
   - Postgraduate
     - Historical Political Economy (planning)
     - [Investigating the Social World](https://www.bbk.ac.uk/courses/modules/sspo/SSPO263S7){:target="_blank"}
