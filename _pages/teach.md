@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-## Birkbeck
+## Birkbeck (2023-24)
 
   - Undergraduate
-    - [Chinese Politics in Comparative Perspective]
+    - Chinese Politics in Comparative Perspective
   - Postgraduate
     - Historical Political Economy (planning)
     - [Investigating the Social World](https://www.bbk.ac.uk/courses/modules/sspo/SSPO263S7){:target="_blank"}
