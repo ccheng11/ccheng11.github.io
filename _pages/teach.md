@@ -12,7 +12,7 @@ redirect_from:
 ## Birkbeck (2023-24)
 
   - Undergraduate
-    - [Chinese Politics in Comparative Perspective](https://www.bbk.ac.uk/courses/modules/sspo/SSPO273S6){:target="_blank"}
+    - [Chinese Politics in Comparative Perspective](https://www.bbk.ac.uk/courses/modules/sspo/SSPO273S6){:target="_blank"} [[**Reading List**](https://github.com/ccheng11/BBK_CPCP){:target="_blank"}]
   - Postgraduate
     - Historical Political Economy (planning)
     - [Investigating the Social World](https://www.bbk.ac.uk/courses/modules/sspo/SSPO263S7){:target="_blank"}
