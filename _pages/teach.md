@@ -12,7 +12,7 @@ redirect_from:
 ## Birkbeck (current school year)
 
   - Undergraduate
-    - [Chinese Politics in Comparative Perspective](https://www.bbk.ac.uk/courses/modules/sspo/SSPO273S6){:target="_blank"} [[**Reading List**](https://github.com/ccheng11/BBK_CPCP){:target="_blank"}]
+    - [Chinese Politics in Comparative Perspective](https://www.bbk.ac.uk/courses/modules/sspo/SSPO273S6){:target="_blank"} [[**Reading List**](https://github.com/ccheng11/BBK_Dashboard/blob/main/CPCP/Reading.md){:target="_blank"}]
   - Postgraduate
     - [Investigating the Social World](https://www.bbk.ac.uk/courses/modules/sspo/SSPO263S7){:target="_blank"}
     - [Advanced Topics in Quantitative Social Research](https://www.bbk.ac.uk/courses/modules/sspo/SSPO241H7){:target="_blank"}
