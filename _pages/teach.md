@@ -16,7 +16,7 @@ redirect_from:
     - Doing Political and Social Research
   - Postgraduate
     - [Investigating the Social World](https://www.bbk.ac.uk/courses/modules/sspo/SSPO263S7){:target="_blank"}
-    - [Advanced Topics in Quantitative Social Research](https://www.bbk.ac.uk/courses/modules/sspo/SSPO241H7){:target="_blank"}
+    - [Advanced Topics in Quantitative Social Research](https://www.bbk.ac.uk/courses/modules/sspo/SSPO241H7){:target="_blank"} [[**Repository**](https://github.com/ccheng11/BBK_AdvQ){:target="_blank"}]
     - [Masterclass in Social Research](https://www.bbk.ac.uk/courses/modules/sspo/SSPO019S7){:target="_blank"}
     
 
