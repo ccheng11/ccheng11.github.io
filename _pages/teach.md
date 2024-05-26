@@ -22,7 +22,7 @@ redirect_from:
 
 ## LSE
 
-  - Fundamentals of Research Design for International Development [[**Slides**](https://github.com/ccheng11/MY410){:target="_blank"}]
+  - [Fundamentals of Research Design for International Development](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/MY/2021_MY410.htm){:target="_blank"} [[**Slides**](https://github.com/ccheng11/MY410){:target="_blank"}]
   - MSc Applied Social Data Science Capstone Project
 
 ## UCLA
