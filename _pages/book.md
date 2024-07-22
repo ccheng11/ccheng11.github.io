@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Autonomy in Autocracy: Local Decentralization and Nation-State Building in China"
+title: "Autonomy in Autocracy: Local Decentralization and Nation-State Building in Post-1949 China"
 permalink: /book/
 author_profile: true
 redirect_from:
@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-![imar](https://ccheng11.github.io/files/cmu_small.jpeg)
-
 ## Overview
 
-In this book manuscript, I develop a new theory to explain how the designation of ethnic autonomous territories (EATs) has shaped the governance of subordinate non-Han ethnic groups and sustained the Party-state in post-1949 China. Combining statistical analysis, archival research, and elite interviews, I demonstrate that ethnic local autonomy was not introduced simply to defuse potential ethnic secessionism. Instead, ethnic autonomous prefectures and counties have allowed the Chinese central leader to constrain the discretion of potentially defiant provincial elites, which in turn addresses the dilemma of delegation, when they faced strong competitors within the Politburo. 
+In this book, I develop a new theory to explain how the designation of ethnic autonomous territories (EATs) has shaped the governance of subordinate non-Han ethnic groups and sustained the Party-state in post-1949 China. Combining statistical analysis, archival research, and elite interviews, I demonstrate that ethnic local autonomy was not introduced simply to defuse potential ethnic secessionism. Instead, ethnic autonomous prefectures and counties have allowed the Chinese central leader to constrain the discretion of potentially defiant provincial elites, which in turn addresses the dilemma of delegation, when they faced strong competitors within the Politburo. 
 
 ## Highlights
 
