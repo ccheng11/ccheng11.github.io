@@ -1,3 +1,11 @@
+---
+title: "temp"
+permalink: /
+author_profile: false
+redirect_from: 
+  - /dpsr/essay.html
+---
+
 # Quantitative methods
 
  - Bazurli, Raffaele, and Martín Portos. "Crook!: The impact of perceived corruption on non-electoral forms of political behaviour." *International Political Science Review 42*, no. 2 (2021): 245-260.
