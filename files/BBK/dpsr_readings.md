@@ -1,10 +1,10 @@
 ---
 title: "Suggested Articles for Essay"
-permalink: /
+permalink: /dpsr/
 author_profile: false
 show_overlay_excerpt: false
 redirect_from: 
-  - /dpsr/essay.html
+  - /essay.html
 ---
 
 ## Quantitative methods
