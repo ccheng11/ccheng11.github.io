@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "Vitae"
-    url: /vitae/
+  #- title: "Vitae"
+  #  url: /vitae/
 
   - title: "Publications"
     url: /publication/
