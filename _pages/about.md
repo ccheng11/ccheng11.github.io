@@ -13,6 +13,6 @@ I am a [Lecturer in Quantitative Political and Social Research](https://www.bbk.
 
 I am broadly interested in the political economy of local governance and central-local relations in developing nations. Combining different computational, quantitative, and qualitative methods, my research interrogates the institutional and policy foundations of nation-state building and socioeconomic development in multi-ethnic societies. Before coming to Birkbeck, I held fellowship positions at [Tsinghua University](https://www.tsinghua.edu.cn/){:target="_blank"} (Beijing) and the [London School of Economics and Political Science](https://www.lse.ac.uk/){:target="_blank"} (LSE).
 
-You find my [CV](https://www.dropbox.com/scl/fi/6ycmaw1r23atusjvuosyl/Vitae-2024.pdf?rlkey=bhqtly1ovhz7dcshxd1cnyxrl&dl=0){:target="_blank"} here.
+Please find my CV [here](https://www.dropbox.com/scl/fi/6ycmaw1r23atusjvuosyl/Vitae-2024.pdf?rlkey=bhqtly1ovhz7dcshxd1cnyxrl&dl=0){:target="_blank"}.
 
 Email: c.cheng[at]bbk.ac.uk.
