@@ -9,15 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-## Birkbeck (current school year)
+## Birkbeck
 
   - Undergraduate
+    - Introduction to Comparative Politics
     - [Chinese Politics in Comparative Perspective](https://www.bbk.ac.uk/courses/modules/sspo/SSPO273S6){:target="_blank"} [[**Reading List**](https://github.com/ccheng11/BBK/blob/main/CPCP/Reading.md){:target="_blank"}]
-    - Doing Political and Social Research
   - Postgraduate
     - [Investigating the Social World](https://www.bbk.ac.uk/courses/modules/sspo/SSPO263S7){:target="_blank"}
     - [Advanced Topics in Quantitative Social Research](https://www.bbk.ac.uk/courses/modules/sspo/SSPO241H7){:target="_blank"} [[**Repository**](https://github.com/ccheng11/BBK_AdvQ){:target="_blank"}]
     - [Masterclass in Social Research](https://www.bbk.ac.uk/courses/modules/sspo/SSPO019S7){:target="_blank"}
+
+## UIBE
+
+  - Applied Social Data Science for Law and Social Sciences
 
 ## LSE
 
