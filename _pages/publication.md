@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Peer-reviewed Articles
-  
+
+  - "Embedded Courts Facing Campaign-Style Enforcement: How Top-down Reforms Reshape Conditional Justice in China." *International Review of Law and Economics*. Accepted (with Chao Ma). February 2026.
   - "[Electoral Institutions and Repression in Dictatorships](https://doi.org/10.1016/j.electstud.2024.102791){:target="_blank"}." *Electoral Studies 89*: 102791 (with Yuree Noh). April 2024.
   - "[Ethnic Ties, Organized Opposition and Voter Defection in Authoritarian Elections](https://www.doi.org/10.1017/gov.2021.48){:target="_blank"}." *Government and Opposition 58*(3): 497-515 (with Yi-Tzu Lin). July 2023.
   - "[From Local Capture to Upper Capture: The Chinese Experiment of Administrative Courts](https://muse.jhu.edu/article/864165){:target="_blank"}." *China Review 22*(3): 9-46 (with Chao Ma and Haibo He). August 2022.
