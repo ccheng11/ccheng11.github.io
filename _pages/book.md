@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Autonomy in Autocracy: Local Decentralization and Nation-State Building in Post-1949 China"
-permalink: /book/
+permalink: /book_eat/
 author_profile: true
 redirect_from:
   - /resume

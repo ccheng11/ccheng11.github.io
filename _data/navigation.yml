@@ -7,8 +7,11 @@ main:
   - title: "Publications"
     url: /publication/
 
-  #- title: "Book Project"
-  #  url: /book/
+  - title: "Autonomy in Autocracy"
+    url: /book_eat/
+
+  - title: "Birds in the Cage"
+    url: /book_admin/  
 
   - title: "Teaching"
     url: /teach/    
