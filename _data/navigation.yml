@@ -4,14 +4,14 @@ main:
   #- title: "Vitae"
   #  url: /vitae/
 
-  - title: "Publications"
+  - title: "Research"
     url: /publication/
 
-  - title: "Autonomy in Autocracy"
-    url: /book_eat/
+  # - title: "Autonomy in Autocracy"
+  #  url: /book_eat/
 
-  - title: "Birds in the Cage"
-    url: /book_admin/  
+  #- title: "Birds in the Cage"
+  #  url: /book_admin/  
 
   - title: "Teaching"
     url: /teach/    
